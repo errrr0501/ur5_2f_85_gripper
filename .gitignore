@@ -1,0 +1,12 @@
+*~
+*.pyc
+moveit/
+moveit_msgs/
+moveit_resources/
+moveit_tutorials/
+moveit_visual_tools/
+panda_moveit_config/
+roboticsgroup_gazebo_plugins/
+rviz_visual_tools/
+Universal_Robots_ROS_Driver/
+geometric_shapes/
